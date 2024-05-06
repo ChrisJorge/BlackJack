@@ -1,4 +1,4 @@
-const NewDeck = {
+export const NewDeck = {
     '2Club': {
         value: 2,
         url: './models/2Club.svg.png',
@@ -218,4 +218,3 @@ const NewDeck = {
     
 }
 
-module.exports = NewDeck
